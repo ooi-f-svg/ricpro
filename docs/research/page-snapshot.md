@@ -1,0 +1,21 @@
+- article [ref=e3]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - heading "金沢市のリフォーム【外壁塗装・屋根塗装】専門店リックプロ" [level=1] [ref=e9]
+      - generic [ref=e12]
+    - list [ref=e50]:
+      - listitem [ref=e51]
+      - listitem [ref=e54]
+      - listitem [ref=e57]
+      - listitem [ref=e60]
+      - listitem [ref=e63]
+      - listitem [ref=e66]
+      - listitem [ref=e69]
+  - generic [ref=e73]:
+    - checkbox [ref=e74]
+    - img "お電話はこちらから" [ref=e75] [cursor=pointer]
+    - img "LINEでご相談" [ref=e76] [cursor=pointer]
+    - img "ご来店予約" [ref=e77] [cursor=pointer]
+    - generic [ref=e80]:
+      - main [ref=e82]
+      - generic [ref=e318]
