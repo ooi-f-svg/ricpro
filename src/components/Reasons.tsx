@@ -78,7 +78,7 @@ export function Reasons() {
               margin: "0 0 8px",
             }}
           >
-            選ばれる3つの理由
+            選ばれる理由
           </h2>
           <Image
             src="/images/rnwl/main/ricproman.png"
